@@ -16,7 +16,7 @@
 ## 📡 RSS 피드 URL
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/koscom-news-crawler/main/koscom_news_feed.xml
+https://raw.githubusercontent.com/happyhjlee/koscom-news-crawler/main/koscom_news_feed.xml
 ```
 
 ⚠️ **YOUR_USERNAME을 실제 GitHub 사용자명으로 변경하세요!**
