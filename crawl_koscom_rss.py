@@ -157,7 +157,7 @@ class KoscomNewsRSSCrawler:
         
         # Atom self link
         atom_link = ET.SubElement(channel, 'atom:link')
-        atom_link.set('href', 'https://raw.githubusercontent.com/YOUR_USERNAME/koscom-news-crawler/main/koscom_news_feed.xml')
+        atom_link.set('href', 'https://raw.githubusercontent.com/happyhjlee/koscom-news-crawler/main/koscom_news_feed.xml')
         atom_link.set('rel', 'self')
         atom_link.set('type', 'application/rss+xml')
         
