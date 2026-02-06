@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+  <channel>
+    <title>코스콤 뉴스</title>
+    <link>https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</link>
+    <description>코스콤(KOSCOM) 공식 뉴스 피드 - 금융IT, 자본시장, 핀테크 관련 최신 소식</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Fri, 06 Feb 2026 01:40:21 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>Koscom News Crawler v1.0</generator>
+    <atom:link href="https://raw.githubusercontent.com/happyhjlee/koscom-news-crawler/main/koscom_news_feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>본문내용 바로가기</title>
+      <link>https://www.koscom.co.kr#content</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr#content</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr#content&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr#content&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주메뉴 바로가기</title>
+      <link>https://www.koscom.co.kr#gnb</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr#gnb</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr#gnb&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr#gnb&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KR</title>
+      <link>https://www.koscom.co.kr/portal/main.do</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main.do</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main.do&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main.do&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>EN</title>
+      <link>https://english.koscom.co.kr/eng/main.do</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://english.koscom.co.kr/eng/main.do</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://english.koscom.co.kr/eng/main.do&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://english.koscom.co.kr/eng/main.do&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사업분야</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200291</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200291</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200291&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200291&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사업개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200292</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200292</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200292&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200292&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사업개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200657</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200657</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200657&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200657&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>웹툰으로 본 코스콤 사업</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000022/list.do?menuNo=200633</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000022/list.do?menuNo=200633</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000022/list.do?menuNo=200633&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000022/list.do?menuNo=200633&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자본시장IT 서비스</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200293</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200293</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200293&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200293&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서비스 개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200294</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200294</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200294&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200294&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시장시스템 개발운용</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200295</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200295</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200295&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200295&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해외거래소 연계거래</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200296</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200296</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200296&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200296&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융투자협회 장외주식 및 장외채권시스템 개발운용</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200527</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200527</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200527&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200527&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 투자관리시스템</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200297</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200297</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200297&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200297&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자본시장IT인프라해외수출</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200298</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200298</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200298&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200298&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KRX 시장감시시스템(CAMS)</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200528</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200528</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200528&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200528&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융투자회사IT</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200305</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200305</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200305&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200305&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서비스 개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200306</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200306</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200306&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200306&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>PowerBase</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200307</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200307</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200307&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200307&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>모바일 솔루션</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200507</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200507</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200507&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200507&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융솔루션</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200614</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200614</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200614&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200614&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>딜링 솔루션</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200620</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200620</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200620&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200620&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기타 부문</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200570</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200570</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200570&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200570&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>IT인프라</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200310</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200310</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200310&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200310&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서비스 개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200605</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200605</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200605&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200605&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초고속 통신망 서비스</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200606</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200606</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200606&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200606&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BCP</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200607</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200607</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200607&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200607&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 Proximity DC</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200608</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200608</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200608&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200608&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융데이터</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200299</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200299</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200299&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200299&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서비스 개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200610</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200610</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200610&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200610&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시세정보 서비스</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200611</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200611</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200611&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200611&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CHECK Expert+</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200612</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200612</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200612&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200612&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융IT</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200318</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200318</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200318&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200318&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서비스개요</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200634</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200634</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200634&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200634&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>클라우드</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200658</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200658</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200658&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200658&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인증서비스</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200598</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200598</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200598&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200598&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마이데이터</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200601</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200601</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200601&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200601&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토큰증권 공동플랫폼</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200637</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200637</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200637&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200637&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Technology Center</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200659</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200659</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200659&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200659&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>로보어드바이저</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200664</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200664</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200664&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200664&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>핀테크</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200635</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200635</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200635&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200635&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사내벤처</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200636</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200636</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200636&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200636&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>회사소개</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200001</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200001</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200001&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200001&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기업정보</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200002</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200002</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200002&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200002&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일반</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200003</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200003</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200003&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200003&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연혁</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200008</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200008</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200008&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200008&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조직</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200009</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200009</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200009&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200009&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CEO</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200020</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200020</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200020&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200020&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍보자료</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200265</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200265</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200265&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200265&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CI</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200266</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200266</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200266&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200266&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍보영상</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200638</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200638</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200638&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200638&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광고</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200640</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200640</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200640&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200640&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>브로슈어</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200639</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200639</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200639&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200639&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>40년사</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200515</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200515</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200515&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200515&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경영공시</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일반현황</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200024&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조직 및 인사</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200026</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200026</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200026&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200026&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>재무현황</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200033</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200033</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200033&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200033&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인건비 현황</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200118</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200118</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200118&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200118&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내외부 평가</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200140</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200140</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200140&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200140&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이사회 회의록</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200143</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200143</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200143&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200143&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>입찰공고</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200453</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200453</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200453&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200453&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정관</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200501</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200501</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200501&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200501&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤리경영</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200250</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200250</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200250&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200250&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤리헌장</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200251</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200251</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200251&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200251&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>행동강령</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200252</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200252</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200252&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200252&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤리경영 상담</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200253</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200253</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200253&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200253&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비윤리행위 신고센터</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200254</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200254</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200254&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200254&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>알림마당</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200257</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200257</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200257&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200257&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공지사항</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200258</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200258</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200258&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000001/list.do?menuNo=200258&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>입찰공고</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200264</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200264</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200264&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000002/list.do?menuNo=200264&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오시는 길</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200286</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200286</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200286&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200286&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>본사</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200287</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200287</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200287&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200287&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자본시장본부 금융사업본부 IT인프라사업본부 데이터사업본부</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200619</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200619</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200619&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200619&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안양센터</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200288</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200288</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200288&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200288&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 Proximity DC</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200290</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200290</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200290&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200290&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고객센터</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고객센터안내</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200642</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200642</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200642&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200642&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자주하는 질문</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200643</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200643</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200643&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200643&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고객의 소리</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200644</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200644</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200644&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200644&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고객서비스 현장</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200645</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200645</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200645&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200645&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사회공헌</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200329</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200329</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200329&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200329&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사회공헌 소개</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200331</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200331</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200331&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200331&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최근소식</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000018/list.do?menuNo=200330</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000018/list.do?menuNo=200330</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000018/list.do?menuNo=200330&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000018/list.do?menuNo=200330&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주요활동</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200332</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200332</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200332&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200332&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>IT's 희망</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200333</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200333</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200333&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200333&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>IT's 이웃사랑</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200335</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200335</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200335&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200335&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>IT's 글로벌</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200336</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200336</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200336&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200336&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코스콤 꿈나무 장학사업</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200334</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200334</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200334&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200334&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴스룸</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코스콤 뉴스</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융IT 이슈 따라잡기</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ETF CHECK 월간리포트</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융IT 용어사전</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>채용</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200382</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200382</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200382&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200382&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인재상</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200383</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200383</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200383&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200383&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>채용안내</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000015/list.do?menuNo=200386</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000015/list.do?menuNo=200386</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000015/list.do?menuNo=200386&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000015/list.do?menuNo=200386&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직원연수제도</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200387</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200387</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200387&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200387&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000016/list.do?menuNo=200388</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000016/list.do?menuNo=200388</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000016/list.do?menuNo=200388&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000016/list.do?menuNo=200388&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코스콤 뉴스</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000064/list.do?menuNo=200629&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융IT 이슈 따라잡기</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000065/list.do?menuNo=200621&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ETF CHECK 월간리포트</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000066/list.do?menuNo=200562&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금융IT 용어사전</title>
+      <link>https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/bbs/B0000034/list.do?menuNo=200646&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>개인정보처리방침</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200648</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200648</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200648&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200648&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이용안내</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200647</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200647</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200647&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200647&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고객만족센터</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200641&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사이트맵</title>
+      <link>https://www.koscom.co.kr/portal/main/contents.do?menuNo=200656</link>
+      <pubDate>Fri, 06 Feb 2026 01:40:21 +0900</pubDate>
+      <dc:creator>코스콤</dc:creator>
+      <category>금융IT</category>
+      <guid isPermaLink="true">https://www.koscom.co.kr/portal/main/contents.do?menuNo=200656</guid>
+      <description/>
+      <content:encoded>&lt;div class=&quot;koscom-news-item&quot;&gt;
+    
+    &lt;div class=&quot;news-content&quot;&gt;
+        
+    &lt;/div&gt;
+    &lt;div class=&quot;news-meta&quot; style=&quot;margin-top:20px; padding-top:20px; border-top:1px solid #eee; color:#666;&quot;&gt;
+        &lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; 코스콤 공식 뉴스&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;원문 보기:&lt;/strong&gt; &lt;a href=&quot;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200656&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.koscom.co.kr/portal/main/contents.do?menuNo=200656&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;발행일:&lt;/strong&gt; &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content:encoded>
+    </item>
+  </channel>
+</rss>
